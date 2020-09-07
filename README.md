@@ -16,7 +16,7 @@ Dentro de la carpeta assets del repositorio estan las carpetas y archivos con lo
 >  1. Ubicarse en la siguiente direccion de jenkins y reemplazar la carpeta **images** con la que se encuentra en el repositorio
 **/var/cache/jenkins/war/** 
 > 2. Ubicarse en la siguiente direccion de jenkins y pegar la carpeta de la fuente OpenSans
-> **/var/cache/jenkins/war/css/google-fonts**
+**/var/cache/jenkins/war/css/google-fonts**
 >  3. Ubicarse en la siguiente direccion y reemplazar la carpeta **images** con la que se encuentra en el repositorio (ojo! que son direcciones distintas e imagenes distintas)
 **/var/lib/jenkins/plugins/cloudbees-folder/**
 
@@ -36,9 +36,9 @@ Dentro de la carpeta assets del repositorio estan las carpetas y archivos con lo
 > 1. Ubicarse en la siguiente direccion de jenkins:
 ***/var/cache/jenkins/war/css***
 > 2. Reemplazar los archivos mencionados por los que se ubican en el repositorio:
->  ***simple-page.css***
->  ***simple-page-forms.css***
->  ***simple-page.theme.css***
+***simple-page.css***
+***simple-page-forms.css***
+***simple-page.theme.css***
 
   
   
