@@ -33,9 +33,9 @@ Dentro de la carpeta assets del repositorio estan las carpetas y archivos con lo
   
 
 > Reemplazar los archivos CSS para cambiar el diseño del formulario de login:
-> 1. Ubicarse en la siguiente direccion de jenkins:
+> 1. Ubicarse en la siguiente direccion de jenkins:   
 ***/var/cache/jenkins/war/css***
-> 2. Reemplazar los archivos mencionados por los que se ubican en el repositorio:
+> 2. Reemplazar los archivos mencionados por los que se ubican en el repositorio:   
 ***simple-page.css***   
 ***simple-page-forms.css***   
 ***simple-page.theme.css***   
@@ -52,9 +52,9 @@ Dentro de la carpeta assets del repositorio estan las carpetas y archivos con lo
 #### NUEVO DISEÑO DE JENKINS
 
 > Reemplazar los archivos CSS para cambiar el diseño total de jenkins:
-> 1. Ubicarse en la siguiente direccion de jenkins:
-**/var/cache/jenkins/war/jsbundles**   
->  2. Reemplazar el archivo css llamado:
-**base-styles-v2.css**   
+> 1. Ubicarse en la siguiente direccion de jenkins:   
+**/var/cache/jenkins/war/jsbundles**      
+>  2. Reemplazar el archivo css llamado:   
+**base-styles-v2.css**      
 
 >  ***NOTA: Una vez hecho ese cambio debera reiniciar jenkins y ver el cambio de estilos total de jenkins***
